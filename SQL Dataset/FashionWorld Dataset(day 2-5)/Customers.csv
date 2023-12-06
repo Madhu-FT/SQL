@@ -1,0 +1,11 @@
+id,name,email,phone,address
+1,"John Smith",john.smith@gmail.com,"+1 555-123-4567","123 Main St, Anytown, USA"
+2,"Jane Doe",jane.doe@yahoo.com,"+1 555-987-6543","456 Maple Ave, Anytown, USA"
+3,"Bob Johnson",bob.johnson@yahoo.com,NULL,"789 Oak St, Anytown, USA"
+4,"Emily Williams",emily.williams@gmail.com,"+1 555-555-1212","321 Elm St, Anytown, USA"
+5,"David Lee",david.lee@yahoo.com,"+1 555-555-5555","567 Pine St, Anytown, USA"
+6,"Sarah Kim",sarah.kim@gmail.com,"+1 555-123-7890","890 Cedar Ave, Anytown, USA"
+7,"Michael Chen",michael.chen@yahoo.com,"+1 555-999-8888","246 Birch Blvd, Anytown, USA"
+8,"Jessica Brown",jessica.brown@yahoo.com,"+1 555-777-6666","369 Spruce St, Anytown, USA"
+9,"Kevin Garcia",kevin.garcia@gmail.com,"+1 555-111-2222","802 Maplewood Dr, Anytown, USA"
+10,"Ashley Davis",ashley.davis@gmail.com,NULL,"135 Walnut St, Anytown, USA"
